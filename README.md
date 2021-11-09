@@ -1,6 +1,6 @@
 # auth-api
 
-## heruku link [herokulink](hhttps://ehab-api-auth.herokuapp.com/)
+## heruku link [herokulink](https://ehab-api-auth.herokuapp.com/)
 
 
 ## setup 
