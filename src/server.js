@@ -28,7 +28,7 @@ app.use('/api/v1',v1);
 app.use('/api/v2',v2);
 
 app.get('/test',(req,res)=>{
-  res.send('hello osama');
+  res.status(200).send('hello osama');
 })
 
 const start = (port) => {
