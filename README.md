@@ -1,6 +1,6 @@
 # auth-api
 
-## heruku link [herokulink](https://ehabalshrida-basicauth.herokuapp.com/)
+## heruku link [herokulink](hhttps://ehab-api-auth.herokuapp.com/)
 
 ## test on github [test](https://github.com/Ehabalshrida/bearer-auth/actions)
 
